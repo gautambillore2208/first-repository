@@ -3,5 +3,6 @@ learning github
 <p>Gautam billore</p>
 <div >vnfrnf<div>
 hello eveyone
-byr bye
+byr byegit config --global user.name "New Name"
+
 
