@@ -5,4 +5,4 @@ learning github
 hello eveyone
 byr byegit config --global user.name "New Name"
 
-
+consol.log("hello")
